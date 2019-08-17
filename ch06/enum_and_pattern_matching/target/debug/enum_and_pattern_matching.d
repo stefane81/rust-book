@@ -1,0 +1,1 @@
+/var/home/stefane81/code/dev/rust/rust-book/ch06/enum_and_pattern_matching/target/debug/enum_and_pattern_matching: /var/home/stefane81/code/dev/rust/rust-book/ch06/enum_and_pattern_matching/src/main.rs
